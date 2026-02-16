@@ -1,0 +1,26 @@
+{
+  "name": "employee-payroll-system",
+  "version": "1.0.0",
+  "description": "This repo is for backend Project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anushkagarg09/Employee_Payroll_System-Bridgelabz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anushkagarg09/Employee_Payroll_System-Bridgelabz/issues"
+  },
+  "homepage": "https://github.com/anushkagarg09/Employee_Payroll_System-Bridgelabz#readme",
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "express": "^5.2.1"
+  }
+}
